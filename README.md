@@ -38,7 +38,7 @@ python3 car_control.py
 
 ## 📸 Demo
 
-car_image.jpg
+![My Car](images/car_image.jpg)
 
 ## 🚀 Future Improvements
 
