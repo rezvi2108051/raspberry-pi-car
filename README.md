@@ -38,7 +38,7 @@ python3 car_control.py
 
 ## 📸 Demo
 
-(Add your images here)
+car_image.jpg
 
 ## 🚀 Future Improvements
 
