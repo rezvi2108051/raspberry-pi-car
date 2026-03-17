@@ -39,7 +39,7 @@ python3 car_control.py
 ## 📸 Demo
 
 ![My Car](car_image.jpg)
-![Wiring Diagram](connection.jpg)
+![Wiring Diagram](connection.png)
 ## 🚀 Future Improvements
 
 * Object tracking using YOLO
